@@ -11,3 +11,7 @@ body{
 #hero {
   margin: 64px auto 240px;
 }
+
+#hero img{
+  margin-bottom: 32px;
+}
