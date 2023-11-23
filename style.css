@@ -8,3 +8,6 @@ body{
   margin: 0;
 }
 
+#hero {
+  margin: 64px auto 240px;
+}
