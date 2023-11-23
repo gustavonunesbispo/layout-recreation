@@ -52,3 +52,16 @@ p strong{
   margin: 0 auto 16px;
   border: 1px solid #ECEFF2;
 }
+
+#footer a{
+  text-decoration: none;
+  color: #3F3D56;
+  font-family: Open Sans;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 147.682%;
+}
+
+a + a{
+  margin-left: 42px;
+}
