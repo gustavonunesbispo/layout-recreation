@@ -29,3 +29,17 @@ h1 span {
   font-size: 32px;
   font-weight: 700;
 }
+
+p{
+  color: #828282;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+}
+
+p strong{
+  color: #3F3D56;
+  font-weight: 700;
+}
