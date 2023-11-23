@@ -52,6 +52,9 @@ p strong{
   margin: 0 auto 16px;
   border: 1px solid #ECEFF2;
 }
+#footer{
+  margin-bottom: 48.3px;
+}
 
 #footer a{
   text-decoration: none;
