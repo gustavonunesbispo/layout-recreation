@@ -9,17 +9,19 @@ body{
 }
 
 #hero {
+  width: 1024px;
   margin: 64px auto 240px;
 }
 
 #hero img{
+  width: 350px;  
+  height: 238px;
   margin-bottom: 32px;
 }
 
 h1{
   font-family: 'Dosis', sans-serif;
   font-size: 32px;
-  font-style: normal;
   font-weight: 500;
   line-height: normal; 
   margin-bottom: 16px; 
@@ -68,3 +70,5 @@ p strong{
 a + a{
   margin-left: 42px;
 }
+
+
